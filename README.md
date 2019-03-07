@@ -1,1 +1,1 @@
-# GitLab-Pipeline-Dashboard
+# GitLab Pipeline Dashboard
